@@ -1,9 +1,6 @@
-node_modules
+node_modules/
 src/
-gulpfile.js
-.npm
-
-temp/
-.gitignore
-gulpfile.js
 .bowerrc
+bower.json
+package-lock.json
+gulpfile.js
