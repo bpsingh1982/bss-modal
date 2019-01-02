@@ -1,0 +1,25 @@
+{
+  "name": "bp-bootstrap-modal",
+  "homepage": "https://github.com/bpsingh1982/bp-bootstrap-modal",
+  "description": "dynamic modal genrat",
+  "main": "index.html",
+  "keywords": [
+    "dynamic",
+    "modal",
+    "bootstrap"
+  ],
+  "authors": [
+    "bobby singh"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
