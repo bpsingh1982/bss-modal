@@ -4,17 +4,26 @@
   "description": "dynamic run time genrate bootstrap modal",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bpsingh1982/bss-modal.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "bob",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/bpsingh1982/bss-modal/issues"
   },
-  "homepage": "https://github.com/bpsingh1982/bss-modal#readme"
+  "homepage": "https://github.com/bpsingh1982/bss-modal#readme",
+  "devDependencies": {
+    "express": "^4.16.4",
+    "gulp": "^4.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-strip-comments": "^2.5.2",
+    "gulp-uglify": "^3.0.1"
+  }
 }
