@@ -6,3 +6,4 @@ gulpfile.js
 temp/
 .gitignore
 gulpfile.js
+.bowerrc
