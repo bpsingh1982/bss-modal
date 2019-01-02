@@ -1,25 +1,18 @@
 {
-  "name": "bp-bootstrap-modal",
-  "homepage": "https://github.com/bpsingh1982/bp-bootstrap-modal",
-  "description": "dynamic modal genrat",
-  "main": "index.html",
-  "keywords": [
-    "dynamic",
-    "modal",
-    "bootstrap"
-  ],
+  "name": "bss-modal",
+  "description": "dynamic run time genrate bootstrap modal",
+  "main": "index.js",
   "authors": [
-    "bobby singh"
+    "bob"
   ],
-  "license": "MIT",
+  "license": "ISC",
+  "homepage": "https://github.com/bpsingh1982/bss-modal",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
+    "lib",
     "test",
     "tests"
-  ],
-  "dependencies": {
-    "bootstrap": "^3.3.6"
-  }
+  ]
 }
